@@ -1,4 +1,4 @@
-Creating, saving and extracting outputs from custom models with Tensorflow 2.2
+### Custom models with Tensorflow 2.2
 
 This notebook was written along with a medium post to adress some shortcomings of the -otherwise incredible- Tensorflow 2.2 update.
 
